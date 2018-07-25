@@ -7,7 +7,7 @@ use-site-title: true
 
 ### About Me
 
-I have a B.Sc. in Control and Automation from the University of Brasilia (UnB), and a M.Sc. from the Federal Univerty of Rio de Janeiro (UFRJ). Currently, I am a PhD Student in the team LARSEN at INRIA Nancy under the supervision of  [Dr. Jean-Baptiste Mouret](https://members.loria.fr/JBMouret/), and [Dr. Serena Ivaldi](https://members.loria.fr/Sivaldi/) Dr. Serena Ivaldi.
+I have a B.Sc. in Control and Automation from the University of Brasilia (UnB), and a M.Sc. from the Federal Univerty of Rio de Janeiro (UFRJ). Currently, I am a PhD Student in the team LARSEN at INRIA Nancy under the supervision of  [Dr. Jean-Baptiste Mouret](https://members.loria.fr/JBMouret/), and [Dr. Serena Ivaldi](https://members.loria.fr/Sivaldi/).
 
 ### Research
 
