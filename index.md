@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Waldez Gomes
-subtitle: I am a Phd Student at Team Larsen - Inria Nancy Grand-Est
+subtitle: Phd Student at Team Larsen - Inria Nancy Grand-Est
 use-site-title: true
 ---
 
