@@ -5,10 +5,10 @@ subtitle: Phd Student at Team Larsen - Inria Nancy Grand-Est
 use-site-title: true
 ---
 
-#H3 About Me
+### About Me
 
 I have a B.Sc. in Control and Automation from the University of Brasilia (UnB), and a M.Sc. from the Federal Univerty of Rio de Janeiro (UFRJ). Currently, I am a PhD Student in the team LARSEN at INRIA Nancy under the supervision of Dr. Jean-Baptiste Mouret, and Dr. Serena Ivaldi.
 
-#H3 Research
+### Research
 
 My thesis subject is "Intelligent cooperation between humans and robots". The research aims to use knowledge of human motor control and machine learning to control the whole body of a humanoid robot (iCub) that cooperates seemlessly with a human partner to execute a certain task.
