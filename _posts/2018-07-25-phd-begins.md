@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: PhD Begins!
 ---
 ## New Personal Webpage
