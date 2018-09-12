@@ -2,9 +2,6 @@
 layout: post
 published: true
 title: Published paper at the Congresso Brasileiro de Automatica 2018
-subtitle: >-
-  My first paper in robotics has been made public! Hopefully many more to come
-  =)
 date: '2018-09-12'
 ---
 ## My first robotics paper!
@@ -29,5 +26,3 @@ And finally, the link to download the paper PDF is also in [my publications page
 
 
 Waldez Gomes
- 
-
