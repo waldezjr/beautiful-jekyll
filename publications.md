@@ -7,7 +7,7 @@ title: My Publications
 
 ### 2018
 
-[Accepted] Gomes W., Lizarralde F. (2018) **Role Adaptive Admittance Controller for Human-Robot Co-Manipulation**. In Congresso Brasileiro de Automática. João Pessoa, Brazil
+Gomes W., Lizarralde F. (2018) **Role Adaptive Admittance Controller for Human-Robot Co-Manipulation**. In Congresso Brasileiro de Automática. João Pessoa, Brazil [PDF EN](https://ssl4799.websiteseguro.com/swge5/PROCEEDINGS/PDF/CBA2018-1138.pdf)
 
 ### 2012
 
