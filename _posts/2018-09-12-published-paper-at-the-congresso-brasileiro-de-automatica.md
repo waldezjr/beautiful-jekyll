@@ -1,7 +1,11 @@
 ---
 layout: post
-published: false
-title: Published paper at the Congresso Brasileiro de Automatica
+published: true
+title: Published paper at the Congresso Brasileiro de Automatica 2018
+subtitle: >-
+  My first paper in robotics has been made public! Hopefully many more to come
+  =)
+date: '2018-09-12'
 ---
 ## My first robotics paper!
 
