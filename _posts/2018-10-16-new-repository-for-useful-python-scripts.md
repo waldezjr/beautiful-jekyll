@@ -1,7 +1,8 @@
 ---
 layout: post
-published: false
+published: true
 title: New Repository for Useful Python Scripts
+date: 16/10/018
 ---
 Having to work with lots of experimental data, and therefore lots of files, sometimes I see myself doing the most tedious tasks like renaming, or converting huge batches of files.
 
