@@ -3,8 +3,6 @@ layout: post
 published: true
 title: Optimizing Motion Retargeting
 ---
-## Optimizing Motion Retargeting
-
 Happy new year everybody!
 
 For this 2020, I decided to keep more and more updates coming to the blog. And as the first post of the year, why not a belated "paper update"?
