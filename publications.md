@@ -1,9 +1,16 @@
 ---
 layout: page
 title: My Publications
+published: true
 ---
 
 ## Conference Papers
+
+### 2019
+
+Waldez Gomes, Vishnu Radhakrishnan, Luigi Penco, Valerio Modugno, Jean-Baptiste Mouret, et al..
+**Humanoid Whole-Body Movement Optimization from Retargeted Human Motions**. IEEE/RAS Int.
+Conf. on Humanoid Robots, Oct 2019, Toronto, Canada. hal-02290473 [PDF EN](https://hal.archives-ouvertes.fr/hal-02290473/document)
 
 ### 2018
 
