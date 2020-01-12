@@ -23,8 +23,13 @@ This tutorial contains step-by-step explanations and a live example using [Googl
 
 
 ## Pre-Requisites
+-A google account to be able to push the material and work from the live demo
+
+-Alternatively, you can install Pyomo on your own, and clone the files from [this repo](https://github.com/waldezjr/PyomoExampleNotebooks).
 
 ## Let's start!
+
+![LP program scheme]({{site.baseurl}}/tutorials/pyomo/LP_scheme.png)
 
 ...
 ....
