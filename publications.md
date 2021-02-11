@@ -12,7 +12,7 @@ Luigi Penco, Enrico Mingo Hoffman, Valerio Modugno, **Waldez Gomes**, Jean-Bapti
 ## Conference Papers
 ### 2021
 
-Serena Ivaldi, Pauline Maurice, **Waldez Gomes**, Jean Theurel, Liên Wioland, et al.. Using exoskeletons to assist medical staff during prone positioning of mechanically ventilated COVID-19 patients: a pilot study. 2021. [PDF EN](https://hal.archives-ouvertes.fr/hal-03137133/document)
+Serena Ivaldi, Pauline Maurice, **Waldez Gomes**, Jean Theurel, Liên Wioland, et al.. **Using exoskeletons to assist medical staff during prone positioning of mechanically ventilated COVID-19 patients: a pilot study**. 2021. [PDF EN](https://hal.archives-ouvertes.fr/hal-03137133/document)
 
 ### 2019
 
@@ -32,7 +32,7 @@ Conf. on Humanoid Robots, Oct 2019, Toronto, Canada. hal-02290473 [PDF EN](https
 
 ### 2021
 
-**Waldez Gomes**, Pauline Maurice, Eloïse Dalin, Jean-Baptiste Mouret, Serena Ivaldi. Improving Ergonomics at Work with Personalized Multi-Objective Optimization of Human Movements. 12th International Conference on Applied Human Factors and Ergonomics, Jul 2021, New York, United States [PDF EN](https://hal.archives-ouvertes.fr/hal-03115203/document)
+**Waldez Gomes**, Pauline Maurice, Eloïse Dalin, Jean-Baptiste Mouret, Serena Ivaldi. **Improving Ergonomics at Work with Personalized Multi-Objective Optimization of Human Movements**. 12th International Conference on Applied Human Factors and Ergonomics, Jul 2021, New York, United States [PDF EN](https://hal.archives-ouvertes.fr/hal-03115203/document)
 
 ## Dissertations / Thesis
 
