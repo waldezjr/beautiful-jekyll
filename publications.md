@@ -10,6 +10,10 @@ Luigi Penco, Enrico Mingo Hoffman, Valerio Modugno, **Waldez Gomes**, Jean-Bapti
 [PDF EN](https://hal.inria.fr/hal-02456663/document) 
 
 ## Conference Papers
+### 2021
+
+Serena Ivaldi, Pauline Maurice, **Waldez Gomes**, Jean Theurel, Liên Wioland, et al.. Using exoskeletons to assist medical staff during prone positioning of mechanically ventilated COVID-19 patients: a pilot study. 2021. [PDF EN](https://hal.archives-ouvertes.fr/hal-03137133/document)
+
 ### 2019
 
 **Waldez Gomes**, Vishnu Radhakrishnan, Luigi Penco, Valerio Modugno, Jean-Baptiste Mouret and Serena Ivaldi
@@ -24,6 +28,12 @@ Conf. on Humanoid Robots, Oct 2019, Toronto, Canada. hal-02290473 [PDF EN](https
 
 **Junior W.A.G.**, Borges D.L. (2012) **An Algorithm for Highlights Identification and Summarization of Broadcast Soccer Videos**. In: Alvarez L., Mejail M., Gomez L., Jacobo J. (eds) Progress in Pattern Recognition, Image Analysis, Computer Vision, and Applications. CIARP 2012. Lecture Notes in Computer Science, vol 7441. Springer, Berlin, Heidelberg [PDF EN](https://link.springer.com/content/pdf/10.1007%2F978-3-642-33275-3_106.pdf)
 
+## Conference Abstracts
+
+### 2021
+
+**Waldez Gomes**, Pauline Maurice, Eloïse Dalin, Jean-Baptiste Mouret, Serena Ivaldi. Improving Ergonomics at Work with Personalized Multi-Objective Optimization of Human Movements. 12th International Conference on Applied Human Factors and Ergonomics, Jul 2021, New York, United States [PDF EN](https://hal.archives-ouvertes.fr/hal-03115203/document)
+
 ## Dissertations / Thesis
 
 ### M.Sc Dissertation
@@ -33,6 +43,3 @@ Conf. on Humanoid Robots, Oct 2019, Toronto, Canada. hal-02290473 [PDF EN](https
 ### B.Sc. Final Report
 
 **GOMES JÚNIOR, Waldez Azevedo**. Integração entre planejamento e execução de rotas para um manipulador robótico móvel (**Path Plannning and Execution Integration for a Mobile Manipulator**). 2014. xvi, 74 f., il. Monografia (Bacharelado em Engenharia Mecatrônica)—Universidade de Brasília, Brasília, 2014. [PDF PT-BR](http://bdm.unb.br/bitstream/10483/15054/1/2014_WaldezAzevedoGomesJunior_tcc.pdf)
-
-
-## Presentation Slides
