@@ -10,9 +10,9 @@ Luigi Penco, Enrico Mingo Hoffman, Valerio Modugno, **Waldez Gomes**, Jean-Bapti
 [PDF EN](https://hal.inria.fr/hal-02456663/document) 
 
 ## Conference Papers
-### 2021
+<!-- ### 2021
 
-Serena Ivaldi, Pauline Maurice, **Waldez Gomes**, Jean Theurel, Liên Wioland, et al.. **Using exoskeletons to assist medical staff during prone positioning of mechanically ventilated COVID-19 patients: a pilot study**. 2021. [PDF EN](https://hal.archives-ouvertes.fr/hal-03137133/document)
+Serena Ivaldi, Pauline Maurice, **Waldez Gomes**, Jean Theurel, Liên Wioland, et al.. **Using exoskeletons to assist medical staff during prone positioning of mechanically ventilated COVID-19 patients: a pilot study**. 2021. [PDF EN](https://hal.archives-ouvertes.fr/hal-03137133/document) -->
 
 ### 2019
 
