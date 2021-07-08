@@ -4,15 +4,21 @@ title: My Publications
 published: true
 ---
 ## Journal Papers
+### 2021
+
+**Waldez Gomes**, Pauline Maurice, Eloïse Dalin, Jean-Baptiste Mouret, Serena Ivaldi. **Multi-objective Trajectory Optimization to Improve Ergonomics in Human Motion**. SUBMITTED IEEE Robotics and Automation Letters 2021
+[PRE PRINT]()
+
 ### 2020
+
 Luigi Penco, Enrico Mingo Hoffman, Valerio Modugno, **Waldez Gomes**, Jean-Baptiste Mouret and Serena Ivaldi
 **Learning Robust Task Priorities and Gains for Control of Redundant Robots**. in IEEE Robotics and Automation Letters, vol. 5, no. 2, pp. 2626-2633, April 2020, doi: 10.1109/LRA.2020.2972847.
 [PDF EN](https://hal.inria.fr/hal-02456663/document) 
 
 ## Conference Papers
-<!-- ### 2021
+### 2021
 
-Serena Ivaldi, Pauline Maurice, **Waldez Gomes**, Jean Theurel, Liên Wioland, et al.. **Using exoskeletons to assist medical staff during prone positioning of mechanically ventilated COVID-19 patients: a pilot study**. 2021. [PDF EN](https://hal.archives-ouvertes.fr/hal-03137133/document) -->
+Serena Ivaldi, Pauline Maurice, **Waldez Gomes**, Jean Theurel, Liên Wioland, et al.. **Using exoskeletons to assist medical staff during prone positioning of mechanically ventilated COVID-19 patients: a pilot study**. 2021. [PDF EN](https://hal.archives-ouvertes.fr/hal-03137133/document)
 
 ### 2019
 
