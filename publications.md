@@ -7,7 +7,7 @@ published: true
 ### 2021
 
 **Waldez Gomes**, Pauline Maurice, Eloïse Dalin, Jean-Baptiste Mouret, Serena Ivaldi. **Multi-objective Trajectory Optimization to Improve Ergonomics in Human Motion**. SUBMITTED IEEE Robotics and Automation Letters 2021
-[PRE PRINT]()
+[PRE PRINT](https://hal.archives-ouvertes.fr/hal-03281827/document)
 
 ### 2020
 
