@@ -13,4 +13,4 @@ I have a B.Sc. in Control and Automation from the University of Brasilia (UnB), 
 
 My thesis subject is **"Intelligent cooperation between humans and robots"**.
 
-The research aims to use knowledge of **human motor control**, **machine learning**, and **ergonomics** to produce ergonomic and seemless physical human-robot cooperation activities.
+The research aims to use knowledge of **human motor control**, **machine learning**, and **ergonomics** to produce ergonomic and seamless physical human-robot cooperation activities.
